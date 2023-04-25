@@ -7,11 +7,13 @@ Index inside the resources directory was built using top 50 popular books from [
 Project done as part of Information Retrival course at Urmia University.
 
 Compile:
+
 ```bash
 javac Main.java
 ```
 
 Run:
+
 ```bash
 java Main
 ```
