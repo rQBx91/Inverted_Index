@@ -1,4 +1,4 @@
-# Information Retrival Projec: Inverted Index
+# Information Retrival Project: Inverted Index
 
 An implementation of inverted index for text documents in Java.
 
